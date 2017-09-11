@@ -1,6 +1,6 @@
 {
   "name": "scroll-saver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple browser scroll management tool which can save and restore scroll value.",
   "main": "lib/index.js",
   "files": [
