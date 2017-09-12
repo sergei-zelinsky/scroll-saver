@@ -2,6 +2,15 @@
 
 A simple browser scroll management tool which can save and restore scroll value.
 
+## Installation
+
+```
+npm i --save scroll-saver
+```
+or
+```
+yarn add scroll-saver
+```
 ## API
 
 #### save()
