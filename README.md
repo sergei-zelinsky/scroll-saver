@@ -2,6 +2,11 @@
 
 A simple browser scroll management tool which can save and restore scroll value.
 
+[![npm](https://img.shields.io/npm/v/scroll-saver.svg)](https://www.npmjs.com/package/scroll-saver)
+[![npm](https://img.shields.io/npm/l/scroll-saver.svg)]()
+[![npm](https://img.shields.io/npm/dt/scroll-saver.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/sergei-zelinsky/scroll-saver.svg?style=social&label=Stars)]()
+
 ## Installation
 
 ```
